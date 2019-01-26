@@ -1,0 +1,5 @@
+zuul.routes.account-service.url=http://localhost:9090
+zuul.routes.transaction-service.url=http://localhost:8989
+zuul.routes.website-service.url=http://localhost:8080
+server.port=8090
+
